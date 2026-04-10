@@ -1,1 +1,1 @@
-# KB
+# Kecerdasan Buatan
